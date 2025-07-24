@@ -1,5 +1,3 @@
-# PT Ingeniero de IA Aplicada
-
 # 🧠 Prueba Técnica – Ingeniero de IA Aplicada
 
 Este repositorio corresponde a una prueba técnica para la vacante de **Ingeniero de IA Aplicada**.  
