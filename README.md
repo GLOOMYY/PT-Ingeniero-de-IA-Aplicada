@@ -21,8 +21,8 @@ Se desarrolló un sistema de **Recuperación Aumentada con Generación (RAG)** q
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/nombre_repositorio.git
-   cd nombre_repositorio
+   git clone https://github.com/GLOOMYY/PT-Ingeniero-de-IA-Aplicada.git
+   cd PT-Ingeniero-de-IA-Aplicada
    ```
 
 2. Instala las dependencias:
